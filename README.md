@@ -18,6 +18,8 @@ In this Challenge, I used node, express, and mongoose to create a Budget Tracker
 
 ## [Click Here](https://budget-tracker-abhi.herokuapp.com/) to View the Deployed Application
 
+<img width="1440" alt="Screen Shot 2021-10-26 at 6 58 06 PM" src="https://user-images.githubusercontent.com/83188832/138972846-fea2881e-07be-435f-8b3d-6e3d1e2a7754.png">
+
 ## Technologies and Languages
 
 - JavaScript
